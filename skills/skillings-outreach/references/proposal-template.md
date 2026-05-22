@@ -24,3 +24,12 @@
   Livro Systems Inc.<br>
   <a href="https://livro.systems/">livro.systems</a></p>
 </div>
+
+---
+
+### Guidelines for Personalization:
+- **[Contact Person/Team Name]**: Name of the owner/director, or "Team [Business Name]" if unknown.
+- **[specific program/service]**: A specific program, success story, or recent update highlighted on their website or social media channels (e.g. "I saw your post about the new Math Olympiad preparation classes...", "I loved the pictures of your recent coding workshop graduation on Facebook...", "I noticed your announcement on LinkedIn regarding the expansion of your tutoring centers...").
+- **[specific value, e.g., quality tutoring]**: The core values, teaching philosophy, or community dedication observed from their website or social media activity.
+- **[pain point, e.g., personalized learning]**: A specific workflow issue observed or inferred (e.g., manual registration via Google Sheets, student inquiries scattered across Facebook Messenger, scheduling done on messy spreadsheets).
+- **[scheduling/enrollment/payment]**: Tailor this based on their current tech stacks and observed bottlenecks. If they rely on Facebook Messenger or Excel, emphasize unified scheduling/enrollment. If they struggle with fees, emphasize automated payments.

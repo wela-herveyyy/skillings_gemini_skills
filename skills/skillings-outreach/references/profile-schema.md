@@ -4,6 +4,8 @@
 |-------|-------------|
 | **Name** | Full business name |
 | **Website** | Official URL |
+| **Socials** | Links to Facebook page, LinkedIn profile, or other social channels |
+| **Social Insights** | Key highlights from recent posts, reviews, campaigns, or updates found online |
 | **Location** | Physical address or service area |
 | **Contact** | Email, phone, or primary contact person |
 | **Category** | Tutor center, Preschool, K-12 school, etc. |
