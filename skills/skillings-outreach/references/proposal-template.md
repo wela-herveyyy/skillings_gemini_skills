@@ -1,26 +1,30 @@
 # Skillings Collaboration Proposal Template
 
-**Subject:** Collaboration Invitation: Enhancing [Business Name]'s Tutoring Operations
+**Subject:** Quick question about [Business Name] / [specific program/service]
 
 **Body:**
 <div style="font-family: Arial, sans-serif; line-height: 1.6;">
   <p>Hi [Contact Person/Team Name],</p>
   
-  <p>I've been following <strong>[Business Name]</strong> and I'm a regular admirer of how you handle your [specific program/service]. Your commitment to [specific value, e.g., quality tutoring] is clear.</p>
+  <p>I was just checking out [Business Name] online and loved what you're doing with [specific program/service]. It’s awesome to see a local center so dedicated to [specific value, e.g., quality tutoring].</p>
 
-  <p>I'm reaching out because I'm currently working on <strong>Skillings</strong>, an online tutoring platform designed specifically for education partners. It's built to bring programs, tutors, students, and payments into one unified ecosystem—moving away from scattered spreadsheets and manual tracking.</p>
+  <p>I noticed that [pain point, e.g., you handle a lot of student inquiries over Facebook, or you're managing multiple tutors]. As a center grows, juggling schedules, enrollments, and payments manually can quickly become a bottleneck.</p>
 
-  <p>Given your focus on [pain point, e.g., personalized learning], I believe we could collaborate to streamline your [scheduling/enrollment/payment] process. We're currently looking for homegrown partners to pilot the system at very accessible rates (₱1,000 – ₱5,000 range) to ensure it fits your specific workflow perfectly.</p>
+  <p>That’s exactly why we built <strong>Skillings</strong>. It’s an all-in-one platform designed specifically for centers like yours to bring everything—from your tutoring programs to digital checkout—into one unified, easy-to-manage ecosystem.</p>
 
-  <p>You can see the vision here: <a href="https://skillings.io/preview">skillings.io/preview</a></p>
+  <p>We’re currently partnering with homegrown centers to pilot the system at extremely accessible rates (between ₱1k–₱5k). I really think having a customized, branded storefront could streamline your [scheduling/enrollment/payment] process so you can focus on what you do best: teaching.</p>
 
-  <p>Would you be open to a brief 10-minute chat next week to see if this could be a fit for [Business Name]? Here are a few times I'm free:</p>
+  <p>You can check out a quick preview of what we do here: <a href="https://skillings.io/preview">skillings.io/preview</a></p>
+
+  <p>Do you have 10 minutes next week for a quick intro call to see if there's a fit? Here are a few times that work for me:</p>
   <ul>
     [Free Times]
   </ul>
 
-  <p>Best regards,</p>
-  <p><strong>Skillings Team</strong><br>
+  <p>Looking forward to connecting!</p>
+  
+  <p>Best,<br>
+  <strong>Skillings Team</strong><br>
   Livro Systems Inc.<br>
   <a href="https://livro.systems/">livro.systems</a></p>
 </div>

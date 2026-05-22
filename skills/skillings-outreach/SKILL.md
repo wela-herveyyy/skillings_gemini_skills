@@ -14,12 +14,12 @@ This skill streamlines the sales prospecting and outreach workflow for Skillings
 Use this workflow to find and document new potential partners.
 
 **Procedure:**
-1.  **Search:** Use `google_web_search` to find tutoring centers or schools in a specific region (e.g., "Tutoring centers in Cagayan de Oro").
-2.  **Socials & Web Research:** 
-    - Use `web_fetch` on the websites of promising leads.
-    - Check the website for links to their social channels (e.g., Facebook, LinkedIn, Instagram).
-    - If no social links are found on their website, perform a targeted `google_web_search` for their social profiles (e.g., `"[Business Name] Cagayan de Oro Facebook"` or `"[Business Name] LinkedIn"`).
-    - **User Inquiry Option:** If you cannot find any definitive social media links, or if there is ambiguity (e.g., multiple similarly named pages), ask the user: *"I'm profiling [Business Name]. Do you have a direct link to their Facebook page, LinkedIn profile, or other social media channels to help customize the outreach? If not, let me know and I'll proceed with the available web information."*
+1.  **Initial Inquiry:** Before performing any automatic web searches, check if the user provided specific target details like a `target_business_link`, social media page, or business name. If none of this information is provided, explicitly ask the user first: *"Do you have a specific target business link (Facebook, LinkedIn, website) or a specific business name you'd like me to research? If not, I can proceed with a general search."*
+2.  **Search:** Once you have a name, link, or permission to do a general search, use `google_web_search` to find the tutoring center or school.
+3.  **Socials & Web Research:** 
+    - Use `web_fetch` on the target's website or the links provided by the user.
+    - Check their website for social media handles (Facebook, LinkedIn, Instagram).
+    - **User Inquiry Option (Socials):** Instead of automatically scraping Google endlessly for their social media, if no definitive social links are found easily, ask the user: *"I couldn't easily find a social media link for [Business Name]. Do you happen to have a link to their Facebook or LinkedIn? If not, I'll proceed with the available web info."*
     - **Insight Extraction:** Review the identified social profiles. Extract recent posts (from the last 2-3 months), active campaigns, student achievements, event photos, or reviews that highlight their specific programs, style, and community engagement.
 3.  **Profile:** Create a dedicated directory: `C:\Users\hmapa\Documents\Skillings\Prospects\[Business Name]`.
 4.  **Document:** Write a `profile.md` following the [Profile Schema](references/profile-schema.md). Ensure the **Socials** and **Social Insights** fields are thoroughly filled with URLs and the key highlights you found.
