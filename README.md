@@ -16,10 +16,16 @@ This is a specialized [Gemini CLI](https://geminicli.com) skill designed for the
 Ensure you have the Gemini CLI installed. If not, follow the guide at [geminicli.com](https://geminicli.com/docs/getting-started).
 
 ### 2. Install the Extension
-Your Project Manager can install this directly from your GitHub repository:
+You can install this extension directly from your GitHub repository:
 
 ```bash
-gemini extensions install https://github.com/[YOUR_USERNAME]/[YOUR_REPO_NAME]
+gemini extensions install https://github.com/wela-herveyyy/skillings_gemini_skills
+```
+
+Or for local development/testing, run this command from the project root folder (containing `gemini-extension.json`):
+
+```bash
+gemini extensions install .
 ```
 
 ### 3. Reload
@@ -44,6 +50,16 @@ Once installed, you can trigger the skill using natural language commands:
     - `profile-schema.md`: The standard format for lead documentation.
     - `proposal-template.md`: The Livro Systems branded email template.
     - `skillings-info.md`: Platform features and value props.
+
+## ⚙️ Development & Packaging
+
+If you make modifications to the files inside `skills/skillings-outreach/` or `references/`, you need to package the extension.
+
+Run the packaging script in PowerShell:
+```powershell
+powershell -ExecutionPolicy Bypass -File .\pack-skill.ps1
+```
+This compiles the files into the root `skillings-outreach.skill` zip file, ready for distribution.
 
 ## 🏢 Corporate Identity
 This skill is configured to use **Livro Systems Inc.** branding. All outreach drafts will point to [livro.systems](https://livro.systems/) and use the official Skillings vision.
