@@ -12,8 +12,16 @@ This is a specialized [Gemini CLI](https://geminicli.com) skill designed for the
 
 ## 📥 Installation
 
-### 1. Prerequisite
-Ensure you have the Gemini CLI installed. If not, follow the guide at [geminicli.com](https://geminicli.com/docs/getting-started).
+### 1. Prerequisites
+Ensure you have the Gemini CLI installed globally:
+```bash
+npm install -g @google/gemini-cli
+```
+
+To enable email drafting capabilities, you must also install the Workspace extension:
+```bash
+gemini extensions install https://github.com/gemini-cli-extensions/workspace
+```
 
 ### 2. Install the Extension
 You can install this extension directly from your GitHub repository:
