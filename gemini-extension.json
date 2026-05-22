@@ -1,0 +1,6 @@
+{
+  "name": "skillings-outreach-extension",
+  "version": "1.0.0",
+  "description": "Automated outreach and partner prospecting for Skillings (Livro Systems Inc.).",
+  "contextFileName": "GEMINI.md"
+}
